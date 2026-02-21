@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋 
+# Hi there! I'm Ashish Kumar Gupta 👋 
 ### 🚀 3rd Year CS Student | Aspiring Full-Stack Developer | Cloud Enthusiast
 
 I’m a passionate developer currently in my third year of Computer Science, focusing on building scalable web applications and exploring the vast world of Cloud Computing.
@@ -8,16 +8,16 @@ I’m a passionate developer currently in my third year of Computer Science, foc
 ### 🛠️ Tech Stack & Tools
 
 **Frontend & Backend**
-![HTML5](https://img.shields.io) 
-![CSS3](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![React](https://img.shields.io)
-![NodeJS](https://img.shields.io)
+![HTML5]
+![CSS3]
+![JavaScript]
+![React]
+![NodeJS]
 
 **Cloud & DevOps**
-![AWS](https://img.shields.io)
-![Docker](https://img.shields.io)
-![Terraform](https://img.shields.io)
+![AWS]
+![Docker]
+![Terraform]
 
 ---
 
